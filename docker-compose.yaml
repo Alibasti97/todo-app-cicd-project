@@ -1,0 +1,6 @@
+version: "3"
+services:
+  todoapp:
+    image: d35e4de74129
+    ports:
+      - "8000:8000"
